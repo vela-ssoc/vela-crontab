@@ -33,7 +33,6 @@
 固定时间间隔
 
 cron支持固定时间间隔，格式为：
-
 - @every <duration>   如: @every 1s , @every 1h
  
 ## vela.crontab(string)
